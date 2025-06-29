@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "115924371379",
+    "project_id": "homeservice-r-gwt4wv",
+    "storage_bucket": "homeservice-r-gwt4wv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115924371379:android:542e0947f7526f01066dc6",
+        "android_client_info": {
+          "package_name": "com.mycompany.homeservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115924371379-go7uo3787k52r11ne15qo0m7snhobtbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXeOIk7-5a-s-j5iK_Q59kbgHu7KEegY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115924371379-go7uo3787k52r11ne15qo0m7snhobtbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115924371379-6vml5cp65pnmgokir1s9dk9he6gl5e5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.homeservice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
